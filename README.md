@@ -25,7 +25,7 @@ My work spans intelligent content personalization, city branding analytics, and 
 `FastAPI` `Flask` `VueJS` `ReactJS` `PyTorch` `Scikit-learn` `LangChain`
 
 **Databases**
-`PostgreSQL` `MongoDB` `Neo4J`
+`PostgreSQL` `PostGIS` `MongoDB` `Neo4J`
 
 **Cloud & DevOps**
 `AWS (Lambda, S3)` `Docker` `Kubernetes` `Jenkins` `NGINX`
