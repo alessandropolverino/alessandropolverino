@@ -1,18 +1,17 @@
 # Hi, I'm Alessandro 👋
 
-I'm a **Software Engineer & Research Fellow** with a Master's degree (110/110 cum laude) in Computer Engineering — Enterprise Software Architectures from the University of Salerno.
+I'm a **Software Engineer & Research Fellow** with a Master's degree (summa cum laude) in Computer Engineering, Enterprise Software Architectures curriculum from the University of Salerno.
 
-I love working at the intersection of **distributed systems**, **AI**, and **real-world impact** — from research prototypes to production deployments. 
-My work spans intelligent content personalization, city branding analytics, and energy management.
+I love working at the intersection of **distributed systems**, **AI**, and **real-world impact**: from research prototypes to production deployments. 
+My work & research spans situation awareness, intelligent content personalization, microlearning, and city branding analytics.
 
 ---
 
 ## 🚀 What I'm up to
 
-- 🔬 Research Fellow @ UNISA (Dept. of Political & Communication Sciences) — applying **AI & ML to smart energy management** and real-time decision-making
+- 🔬 Ph.D. student @ UNISA (Dept. of Information Engineering, Electrical Engineering, and Applied Mathematics)
 - 🏢 Co-founder @ **UrbanMIS s.r.l.** — a UNISA spin-off building AI-based Decision Support Systems for city branding & tourism analytics
 - 🎓 M.S. in Computer Engineering — **110/110 cum laude**
-- 🧠 Thesis: *Janus Urbanis* — a microservices platform for City Branding Situation Awareness, integrating OSINT data, Fuzzy Logic, Rough Sets, and LLMs for large-scale geospatial sentiment analysis
 
 ---
 
