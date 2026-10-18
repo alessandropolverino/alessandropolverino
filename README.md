@@ -54,8 +54,6 @@ ETL on ISTAT + OpenStreetMap data. GeoJSON indexing achieved **~32x query speedu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandropolverino01-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alessandropolverino01)
 [![Personal Email](https://img.shields.io/badge/Email-alessandropolverino01@gmail.com-red?style=flat&logo=gmail)](mailto:alessandropolverino01@gmail.com)
-[![Work Email](https://img.shields.io/badge/Work-alessandro.polverino@urbanmis.com-green?style=flat&logo=gmail)](mailto:alessandro.polverino@urbanmis.com)
-[![UrbanMIS website](https://img.shields.io/badge/Company-urbanmis.com-black?style=flat&logo=google-chrome)](https://urbanmis.com)
 
 ---
 
