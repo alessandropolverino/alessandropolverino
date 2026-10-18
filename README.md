@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro 👋
 
-I'm a **Software Engineer & Research Fellow** with a Master's degree (summa cum laude) in Computer Engineering, Enterprise Software Architectures curriculum from the University of Salerno.
+I'm a **Ph.D. student & Software Engineer** with a Master's degree (summa cum laude) in Computer Engineering, Enterprise Software Architectures curriculum from the University of Salerno.
 
 I love working at the intersection of **distributed systems**, **AI**, and **real-world impact**: from research prototypes to production deployments. 
 My work & research spans situation awareness, intelligent content personalization, microlearning, and city branding analytics.
